@@ -5,3 +5,5 @@ There are two main folders in this data repository:
 Has reacordings and transcriptions from the famous Spanish singer Alvaro Soler, who is a native Spanish singer. There are mp4's, mp3's, and EAF files included. This folder also has a subtitles txt file for Alvaro Soler's first interview, translating his interview into English.
 ## Narcos
 Has recordings and transcriptions from the famous Netflix TV Show "Narcos". In this folder, there are mp4's, mp3's, and EAF files included.
+## English Sample
+Has a recording and transcription from the famous Netflix TV Show "Breaking Bad". This folder contains mp4's, mp3's, and EAF files as well.
